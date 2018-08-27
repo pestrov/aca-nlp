@@ -1,0 +1,6 @@
+nltk
+spacy
+tqdm
+numpy
+sklearn
+matplotlib
